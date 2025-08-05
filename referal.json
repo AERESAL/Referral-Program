@@ -23,6 +23,25 @@
       "name": "Evan Ajai",
       "email": "evanajai15@gmail.com",
       "referredBy": "REF123"
+    },
+    {
+      "referralCode": "SAI",
+      "name": "Sai Smaran",
+      "email": "saismaran.araveti@gmail.com",
+      "referredBy": "SEELAM"
+    },
+    {
+      "referralCode": "ABI",
+      "name": "Abhirup Koduru",
+      "email": "abhirupkoduru@gmail.com",
+      "referredBy": "REF123"
+    },
+    {
+      "referralCode": "PEN",
+      "name": "Abhirup Koduru",
+      "email": "sanjuu.penmetsa@gmail.com",
+      "referredBy": "SEELAM"
     }
+    
   ]
 }
