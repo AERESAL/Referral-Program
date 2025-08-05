@@ -41,7 +41,25 @@
       "name": "Krishna Penmetsa",
       "email": "sanjuu.penmetsa@gmail.com",
       "referredBy": "SEELAM"
+    },
+    {
+      "referralCode": "ALLIE",
+      "name": "ALLIE",
+      "email": "vijitallie@gmail.com",
+      "referredBy": "PEN"
+    },
+    {
+      "referralCode": "LUCEY",
+      "name": "Cameron Lucey",
+      "email": "cameronlucey2020@gmail.com",
+      "referredBy": "PEN"
+    },
+    {
+      "referralCode": "JALEBI",
+      "name": "Janani",
+      "email": "janani9j@gmail.com",
+      "referredBy": "PEN"
     }
-    
   ]
 }
+
