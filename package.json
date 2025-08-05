@@ -1,0 +1,39 @@
+{
+  "name": "referral-display",
+  "version": "1.0.0",
+  "description": "A React Native web app to display referral data stylishly",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production",
+    "build-test": "ENTRY=./test-index.js webpack --mode production",
+    "dev": "webpack serve --mode development --open",
+    "vercel-build": "npm run build"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-native-web": "^0.19.0",
+    "vercel": "^41.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.23.0",
+    "@babel/preset-react": "^7.22.0",
+    "babel-loader": "^9.1.0",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.0",
+    "webpack-dev-server": "^5.2.2"
+  },
+  "keywords": [
+    "react-native",
+    "web",
+    "referral",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

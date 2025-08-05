@@ -1,0 +1,23 @@
+{
+  "referrals": [
+    {
+      "referralCode": "REF123",
+      "name": "Ethan Ajai",
+      "email": "ethanajai10@gmail.com",
+      "referredBy": null
+    },
+    {
+      "referralCode": "SEELAM",
+      "name": "Sai Seelam",
+      "email": "saiseelam446@gmail.com",
+      "referredBy": null
+    },
+    {
+      "referralCode": "SASI278",
+      "name": "Sasidharan Loganathan",
+      "email": "sasidharanl3109@gmail.com",
+      "referredBy": "SEELAM"
+    }
+
+  ]
+}
