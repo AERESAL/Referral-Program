@@ -59,6 +59,18 @@
       "name": "Janani",
       "email": "janani9j@gmail.com",
       "referredBy": "PEN"
+    },
+    {
+      "referralCode": "AARNA",
+      "name": "Aarna Gupta",
+      "email": "agpro579@gmail.com",
+      "referredBy": "SEELAM"
+    }
+    {
+      "referralCode": "BSK",
+      "name": "Bhuvan Sai Kosanam",
+      "email": "hyperactiveboyhahatotot@gmail.com",
+      "referredBy": "PEN"
     }
   ]
 }
