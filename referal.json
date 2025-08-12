@@ -77,6 +77,12 @@
       "name": "Drona Jayanti",
       "email": "drona.jayanti@icloud.com",
       "referredBy": null
+    },
+    {
+      "referralCode": "RAI",
+      "name": "Parth Rai",
+      "email": "parth.rai2028@gmail.com",
+      "referredBy": "REF123"
     }
     
   ]
